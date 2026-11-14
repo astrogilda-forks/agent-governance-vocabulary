@@ -37,6 +37,7 @@ A project takes part in shared decisions only by explicit opt-in. Being listed o
 | REMORA | @darklordVirtual | [2026-10-02](https://github.com/aeoess/agent-governance-vocabulary/issues/185#issuecomment-5954508771) |
 | invinoveritas | @babyblueviper1 | [2026-10-09](https://github.com/aeoess/agent-governance-vocabulary/issues/185#issuecomment-6086329014) |
 | Agent Passport System | @aeoess | [2026-10-15](https://github.com/aeoess/agent-governance-vocabulary/issues/185#issuecomment-6196323607) |
+| Probity AI (probityai) | @astrogilda | [2026-10-27](https://github.com/aeoess/agent-governance-vocabulary/issues/185#issuecomment-6433740185) |
 | Horizon Shield (NENRIN, MUSUBI) | @ogasurfproject-jpg | [2026-10-27](https://github.com/aeoess/agent-governance-vocabulary/issues/185#issuecomment-6430258358) |
 | AgentAvow | @kenneives | [2026-10-27](https://github.com/aeoess/agent-governance-vocabulary/issues/185#issuecomment-6432567316) |
 | Probity AI | @astrogilda | [2026-10-27](https://github.com/aeoess/agent-governance-vocabulary/issues/185#issuecomment-6433740185) |
